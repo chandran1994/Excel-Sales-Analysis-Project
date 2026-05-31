@@ -29,18 +29,6 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ---
 
-# Tools & Features Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning
-- Data Formatting
-- Interactive Dashboard Design
-
----
-
 # Dashboard Insights
 
 ## Orders vs Sales
@@ -109,13 +97,11 @@ Amazon generated the highest share of orders among all platforms.
 
 # Key Business Findings
 
-- Women are the major customer base.
-- Amazon is the strongest sales channel.
-- Maharashtra contributes the highest sales revenue.
-- Delivered orders dominate overall order status.
-- Adult customers contribute the majority of sales.
+**The analysis showed that women accounted for approximately 64% of total sales, making them the primary customer segment. Sales were strongest among adult customers, while teenagers and senior customers contributed a smaller share of revenue.**
 
----
+**From a geographic perspective, Maharashtra generated the highest sales, followed by several other high-performing states. Channel analysis revealed that Amazon was the largest contributor to order volume, outperforming other marketplaces such as Myntra, Flipkart, and Ajio.**
+
+**Operational performance was also strong, with approximately 92% of orders successfully delivered, while cancelled, returned, and refunded orders represented only a small proportion of total transactions. Monthly analysis showed that sales peaked during March, with performance gradually declining toward the end of the year.**
 
 # Files Included
 
