@@ -117,21 +117,6 @@ Amazon generated the highest share of orders among all platforms.
 
 ---
 
-# Conclusion
-
-This project helped strengthen my understanding of:
-
-- Excel dashboard creation
-- Pivot tables and charts
-- Business data analysis
-- Data visualization
-- Interactive reporting
-- Sales trend analysis
-
-Excel dashboards look calm and professional until one pivot table breaks and suddenly the entire workbook enters its villain arc.
-
----
-
 # Files Included
 
 - `Vrinda Store Data Analysis.xlsx`
