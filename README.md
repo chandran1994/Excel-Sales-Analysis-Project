@@ -95,7 +95,7 @@ Amazon generated the highest share of orders among all platforms.
 
 ---
 
-# Key Business Findings
+# Key Business Findings -
 
 **The analysis showed that women accounted for approximately 64% of total sales, making them the primary customer segment. Sales were strongest among adult customers, while teenagers and senior customers contributed a smaller share of revenue.**
 
